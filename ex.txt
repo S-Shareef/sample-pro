@@ -2,3 +2,19 @@ hi
 hello 
 good evening 
 thanks namaste
+
+
+If you want, I can also give you a one-shot combined command that does all this in a single run. Would you like that?
+
+The command to add an origin (remote repository) in Git is:
+
+bash
+Copy
+Edit
+git remote add origin <repository-URL>
+Example:
+
+bash
+Copy
+Edit
+
